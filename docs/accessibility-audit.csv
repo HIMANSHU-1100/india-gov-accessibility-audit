@@ -1,1 +1,2 @@
-
+issue_id,page_or_component,wcag_reference,evidence,severity,user_impact,recommended_fix,owner,status
+A11Y-001,Homepage – Top Bar Service List,4.1.2 Name Role Value,"Lighthouse reports ARIA roles are not contained by their required parent element.",Medium,"Screen-reader users may not receive the intended list structure correctly.","Use semantic ul/li elements or correct ARIA structure.",Developer,Open
